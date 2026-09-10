@@ -375,7 +375,7 @@ for indice, fila in df_siapa.iterrows():
 
     sede = obtener_sede(
     fila["NombreDe"],
-    fila["NombreUb"]
+    fila["nombreub"]
 )
     # --------------------------------------------------------
     # ESNI
