@@ -623,5 +623,5 @@ print("TRANSFORMACIÓN FINALIZADA")
 print("==========================================")
 print(f"Registros procesados: {len(df_siga)}")
 print(f"Archivo generado: {ARCHIVO_SALIDA}")
-print("==========================================")
+print(" ==========================================")
 
